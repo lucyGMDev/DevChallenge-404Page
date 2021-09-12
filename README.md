@@ -70,5 +70,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/lucyGMDev)
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [LucyGMDev](https://github.com/lucyGMDev)
+- Twitter [@LucyGM_DEV](https://twitter.com/LucyGM_DEV)
